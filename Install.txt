@@ -1,0 +1,11 @@
+## prerequisites
+
+# Python 3.1
+# https://www.anaconda.com/products/distribution
+# https://developer.nvidia.com/cuda-toolkit
+#
+
+## Stuff to install from PIP
+# >pip install -U matplotlib
+# 
+#
